@@ -1,0 +1,13 @@
+{
+  "name": "server-tag-role-bot",
+  "version": "1.0.0",
+  "description": "Gives a role to members who wear the server tag and removes it when they take it off",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.21.0",
+    "dotenv": "^16.4.5"
+  }
+}
